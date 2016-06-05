@@ -1,0 +1,27 @@
+{
+    "name": "amazon-book-search-se-openshift",
+    "version": "0.0.1",
+    "description": "Simple wrapper around apac to return book results from Amazon's Product Advertising API. Based on amazon-book-search by kuryaki. Uses apac version 0.0.13 so it can work with openshift's version of node.js",
+    "main": "amazon-book-search-se-openshift.js",
+    "scripts": {
+    },
+    "keywords": [
+        "amazon",
+        "book",
+        "search",
+        "ISBN",
+        "Amazon Product Adervitising API",
+        "openshift"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/retroburst/amazon-book-search-se-openshift.git"
+    },
+    "author": "Andrew D (retroburst) based on code by David Roncancio (kuryaki).",
+    "license": "BSD-2-Clause",
+    "devDependencies": {
+    },
+    "dependencies": {
+        "apac": "0.0.13"
+    }
+}

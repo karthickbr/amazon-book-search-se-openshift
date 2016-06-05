@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48F91CC9-E2FD-4755-B26C-9154FA8E6149</string>
+	<key>IDESourceControlProjectName</key>
+	<string>amazon-book-search</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7597AEF941926773B5B1D74032A6406835605F04</key>
+		<string>https://github.com/retroburst/amazon-book-search.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>amazon-book-search.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7597AEF941926773B5B1D74032A6406835605F04</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/retroburst/amazon-book-search.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7597AEF941926773B5B1D74032A6406835605F04</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7597AEF941926773B5B1D74032A6406835605F04</string>
+			<key>IDESourceControlWCCName</key>
+			<string>amazon-book-search</string>
+		</dict>
+	</array>
+</dict>
+</plist>
