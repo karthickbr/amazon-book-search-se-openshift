@@ -1,6 +1,6 @@
 {
     "name": "amazon-book-search-se-openshift",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Simple wrapper around apac to return book results from Amazon's Product Advertising API. Based on amazon-book-search by kuryaki. Uses apac version 0.0.13 so it can work with openshift's version of node.js",
     "main": "amazon-book-search-se-openshift.js",
     "scripts": {

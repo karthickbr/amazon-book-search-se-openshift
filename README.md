@@ -1,4 +1,4 @@
-## Amazon Book Search SE
+## Amazon Book Search SE OpenShift
 
 This allows you to find books on amazon through their Product Advertising API. 
 It is a simplified version of amazon-book-search (does not provide express middleware interface). 
@@ -9,7 +9,7 @@ so you will have to do that manually if required.
 
 ### Install
 
-     $ npm install amazon-book-search-se
+     $ npm install amazon-book-search-se-openshift
 
 ### Requirements
     You will need an Amazon API key, secret and associate ID to use this service. For more information,
@@ -17,7 +17,7 @@ so you will have to do that manually if required.
 
 ### Usage 
 
-    var amazonBookSearchSE = require('amazon-book-search-se');
+    var amazonBookSearchSE = require('amazon-book-search-se-openshift');
     var absse =  new amazonBookSearchSE({ awsKey: "YOUR KEY", awsSecret: "YOUR SECRET", assocId: "YOUR ASSOCIATE TAG" });
 
     // search by ISBN
