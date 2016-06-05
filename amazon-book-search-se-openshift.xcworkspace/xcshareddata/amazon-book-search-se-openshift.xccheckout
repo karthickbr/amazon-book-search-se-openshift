@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2EF62000-AA61-4E9A-B2EA-A76778879549</string>
+	<key>IDESourceControlProjectName</key>
+	<string>amazon-book-search-se-openshift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9506A71656B304321C5C9A3E9909A909C8805B9</key>
+		<string>https://github.com/retroburst/amazon-book-search-se-openshift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>amazon-book-search-se-openshift.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9506A71656B304321C5C9A3E9909A909C8805B9</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/retroburst/amazon-book-search-se-openshift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9506A71656B304321C5C9A3E9909A909C8805B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9506A71656B304321C5C9A3E9909A909C8805B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>amazon-book-search-se-openshift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
