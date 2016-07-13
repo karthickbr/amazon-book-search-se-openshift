@@ -2,10 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:amazon-book-search-se-openshift.js">
+      location = "group:test.js">
    </FileRef>
    <FileRef
-      location = "group:amazon-book-search-seopenshift.xcworkspace">
+      location = "group:amazon-book-search-se-openshift.js">
    </FileRef>
    <FileRef
       location = "group:lib">
