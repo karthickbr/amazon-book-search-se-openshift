@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E9506A71656B304321C5C9A3E9909A909C8805B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7597AEF941926773B5B1D74032A6406835605F04" : 0,
+    "E9506A71656B304321C5C9A3E9909A909C8805B9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E5AA028F-40A7-4C18-B23A-9F6BB69C2D2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7597AEF941926773B5B1D74032A6406835605F04" : "amazon-book-search-se\/",
+    "E9506A71656B304321C5C9A3E9909A909C8805B9" : "amazon-book-search-se-openshift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "amazon-book-search-seopenshift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "amazon-book-search-seopenshift.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/retroburst\/amazon-book-search-se.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7597AEF941926773B5B1D74032A6406835605F04"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/retroburst\/amazon-book-search-se-openshift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E9506A71656B304321C5C9A3E9909A909C8805B9"
+    }
+  ]
+}

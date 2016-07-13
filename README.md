@@ -3,12 +3,11 @@
 This allows you to find books on amazon through their Product Advertising API. 
 It is a simplified version of amazon-book-search (does not provide express middleware interface). 
 This version does not humanize the results and returns them in original Amazon format. Works
-well searching by ISBN as well as keywords. This version uses an older version of apac so that
+well searching by ISBN as well as keywords. It uses an older version of apac so that
 it supports the openshift node.js version. Because of this it does not automatically throttle,
-so you will have to do that manually if required.
+so you will have to do that manually (if required).
 
 ### Install
-
      $ npm install amazon-book-search-se-openshift
 
 ### Requirements
@@ -16,9 +15,8 @@ so you will have to do that manually if required.
     look at the Amazon Product Advertising API documentation.
 
 ### Usage 
-
-    var amazonBookSearchSE = require('amazon-book-search-se-openshift');
-    var absse =  new amazonBookSearchSE({ awsKey: "YOUR KEY", awsSecret: "YOUR SECRET", assocId: "YOUR ASSOCIATE TAG" });
+    var amazonBookSearchSEOpenShift = require('amazon-book-search-se-openshift');
+    var absse =  new amazonBookSearchSEOpenShift({ awsKey: "YOUR KEY", awsSecret: "YOUR SECRET", assocId: "YOUR ASSOCIATE TAG" });
 
     // search by ISBN
     absse.search('9781413027570', function(error, result){

@@ -2,7 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/retroburst/Development/amazon-book-search-se/amazon-book-search-se.js">
+      location = "group:amazon-book-search-se-openshift.js">
+   </FileRef>
+   <FileRef
+      location = "group:test.js">
    </FileRef>
    <FileRef
       location = "group:lib">
